@@ -1,0 +1,17 @@
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\KineticTests.dll
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\KineticTests.pdb
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\WebDriver.dll
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\WebDriver.Support.dll
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\obj\Debug\KineticTests.csproj.CoreCompileInputs.cache
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\obj\Debug\KineticTests.csproj.CopyComplete
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\obj\Debug\KineticTests.dll
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\obj\Debug\KineticTests.pdb
+C:\Users\Kamogelo.Xaba\Documents\KineticSkunk 2\KineticTests\obj\Debug\KineticTests.csproj.AssemblyReference.cache
