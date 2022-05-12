@@ -18,6 +18,7 @@ namespace KineticTests.PageObjects.Base
 			driver = new ChromeDriver();
 
 			driver.Navigate().GoToUrl("https://the-internet.kineticskunk.co.za/");
+			Wait2Seconds();
 			driver.Manage().Window.Maximize();
 		}
 		public void CloseBrowser()
