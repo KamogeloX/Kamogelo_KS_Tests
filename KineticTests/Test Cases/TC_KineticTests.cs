@@ -28,25 +28,15 @@ namespace KineticTests
 		[TestMethod]
 		public void TC_DragAndDrop()
 		{
+			//Test will fail because of a known issue (Issue with Cursor Changing) https://github.com/SeleniumHQ/selenium/issues/8003
 			LaunchBrowser();
 			driver.FindElement(By.LinkText("Drag and Drop")).Click();
-			IWebElement drag = driver.FindElement(By.Id("column-a"));
-			IWebElement drop = driver.FindElement(By.Id("column-b"));
 			Actions actions = new Actions(driver);
-			actions.MoveToElement(drag);
-			actions.ClickAndHold(drag);
-			actions.MoveToElement(drop);
-			actions.Release(drag);
 			actions.DragAndDrop(drag, drop);
+			actions.Build();
 			actions.Perform();
-			//actions.MoveToElement(drag);
-			//Wait2Seconds();
-			//actions.DragAndDrop(drag, drop).Build().Perform();
 			string divHeader = driver.FindElement(By.XPath("/html/body/div[2]/div/div/div/div[1]/header")).Text.ToString();
 			Assert.AreEqual("B", divHeader);
-
-			//actions.ClickAndHold(drag).MoveByOffset(500, 0);
-			//actions.DragAndDrop(drag, drop).Perform();
 			Wait2Seconds();
 			CloseBrowser();
 		}
