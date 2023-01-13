@@ -15,6 +15,7 @@ namespace KineticTests
 		[TestMethod]
 		public void TC_CheckBoxes()
 		{
+			//First Test Case
 			LaunchBrowser();
 			driver.FindElement(By.LinkText("Checkboxes")).Click();
 			chkbox.Click();
